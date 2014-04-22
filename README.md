@@ -1,5 +1,5 @@
 # Travis JCE Unlimited Strength Jurisdiction Policy test
-[![Build Status](https://travis-ci.org/simi/travis-jce-unlimited-test.png?branch=master)](https://travis-ci.org/simi/travis-jce-unlimited-test)
+[![Build Status](https://travis-ci.org/stefan2904/travis-jce-unlimited-test.svg)](https://travis-ci.org/stefan2904/travis-jce-unlimited-test)
 
 Discussion here: [travis-ci#832](https://github.com/travis-ci/travis-ci/issues/832)
 
